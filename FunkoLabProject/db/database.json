@@ -1,0 +1,74 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "imagem": "https://www.lojatoyscollections.com.br/cdn/shop/products/Funko-Pop-BoRuto--Naruto---Hokage--724-5e4d188fcbb82_720x.jpg?v=1656621416",
+      "nome": "Naruto Uzumaki",
+      "preco": 89.90,
+      "parcela": 8.99
+    },
+    {
+      "id": 2,
+      "imagem": "https://www.lojatoyscollections.com.br/cdn/shop/products/Funko-Pop-BoRuto--Naruto---Hokage--724-5e4d188fcbb82_720x.jpg?v=1656621416",
+      "nome": "Sasuke Uchiha",
+      "preco": 50.00,
+      "parcela": 5.00
+    },
+    {
+      "id": 3,
+      "imagem": "https://www.lojatoyscollections.com.br/cdn/shop/products/Funko-Pop-BoRuto--Naruto---Hokage--724-5e4d188fcbb82_720x.jpg?v=1656621416",
+      "nome": "Sakura Haruno",
+      "preco": 75.00,
+      "parcela": 7.50
+    },
+    {
+      "id": 4,
+      "imagem": "https://www.lojatoyscollections.com.br/cdn/shop/products/Funko-Pop-BoRuto--Naruto---Hokage--724-5e4d188fcbb82_720x.jpg?v=1656621416",
+      "nome": "Kakashi Hatake",
+      "preco": 60.00,
+      "parcela": 6.00
+    },
+    {
+      "id": 5,
+      "imagem": "https://www.lojatoyscollections.com.br/cdn/shop/products/Funko-Pop-BoRuto--Naruto---Hokage--724-5e4d188fcbb82_720x.jpg?v=1656621416",
+      "nome": "Itachi Uchiha",
+      "preco": 95.00,
+      "parcela": 9.50
+    },
+    {
+      "id": 6,
+      "imagem": "https://www.lojatoyscollections.com.br/cdn/shop/products/Funko-Pop-BoRuto--Naruto---Hokage--724-5e4d188fcbb82_720x.jpg?v=1656621416",
+      "nome": "Hinata Hyuga",
+      "preco": 45.00,
+      "parcela": 4.50
+    },
+    {
+      "id": 7,
+      "imagem": "https://www.lojatoyscollections.com.br/cdn/shop/products/Funko-Pop-BoRuto--Naruto---Hokage--724-5e4d188fcbb82_720x.jpg?v=1656621416",
+      "nome": "Gaara do Deserto",
+      "preco": 70.00,
+      "parcela": 7.00
+    },
+    {
+      "id": 8,
+      "imagem": "https://www.lojatoyscollections.com.br/cdn/shop/products/Funko-Pop-BoRuto--Naruto---Hokage--724-5e4d188fcbb82_720x.jpg?v=1656621416",
+      "nome": "Jiraiya",
+      "preco": 55.00,
+      "parcela": 5.50
+    },
+    {
+      "id": 9,
+      "imagem": "https://www.lojatoyscollections.com.br/cdn/shop/products/Funko-Pop-BoRuto--Naruto---Hokage--724-5e4d188fcbb82_720x.jpg?v=1656621416",
+      "nome": "Orochimaru",
+      "preco": 65.00,
+      "parcela": 6.50
+    },
+    {
+      "id": 10,
+      "imagem": "https://www.lojatoyscollections.com.br/cdn/shop/products/Funko-Pop-BoRuto--Naruto---Hokage--724-5e4d188fcbb82_720x.jpg?v=1656621416",
+      "nome": "Tsunade Senju",
+      "preco": 80.00,
+      "parcela": 8.00
+    }
+  ]
+}
