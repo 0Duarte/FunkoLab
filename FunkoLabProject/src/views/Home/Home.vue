@@ -1,6 +1,5 @@
 <template>
     <div>
-        <h1>Produto</h1>
         <div class="funkos">
             <Card
             v-for="produto in produtoLista"

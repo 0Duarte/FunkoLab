@@ -1,6 +1,6 @@
 <template>
             <v-card width="30%" class="pa-2 mb-2">
-                <v-img :src=imagem alt="" width="100%" ratio="1/1"
+                <v-img :src=imagem alt="" width="100%" height="60%" ratio="1/1"
                 gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)" class="justify-center"/>
                 <v-card-subtitle size="small">{{ nome }}</v-card-subtitle>
                 <v-card-title>10X de {{new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(parcela)}}</v-card-title>

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Carrinho</h1>
+        <h1 class="ml-5 mt-5 text-blue-grey">Carrinho</h1>
 
         <v-table>
             <thead>
