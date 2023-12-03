@@ -29,7 +29,7 @@ export default {
     methods:{
     },
     mounted() {
-        axios.get("http://localhost:3000/produtos")
+        axios.get("https://json-no-vercel.vercel.app/produtos")
             .then(res => this.produtoLista = res.data)
             .catch(error => console.log(error));
     },
